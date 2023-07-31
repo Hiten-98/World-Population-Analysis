@@ -5,7 +5,7 @@ The current US Census Bureau world population estimate in June 2019 shows that t
 China is the most populous country in the world with a population exceeding 1.4 billion. It is one of just two countries with a population of more than 1 billion, with India being the second. As of 2018, India has a population of over 1.355 billion people, and its population growth is expected to continue through at least 2050. By the year 2030, the country of India is expected to become the most populous country in the world. This is because India’s population will grow, while China is projected to see a loss in population.
 
 # AIM
-To analyze data of Word Population based on 
+To analyze data of Word Population based on  
 1. Continent
 2. Country
 3. Growth Rate
