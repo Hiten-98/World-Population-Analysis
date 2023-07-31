@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
+import seaborn as sns 
 import plotly.express as px
 
 df = pd.read_excel(r'C:\Users\nitro 5\Desktop\NMIMS-Hiten\Data Wrangling\Project\Word_Population.xlsx')
